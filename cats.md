@@ -4,4 +4,6 @@
 
 <img src="img/loth_cat2.jpg" width=150>
 
-![loth cat 3](img/loth_cat3.webp)
+<a href="https://starwars.fandom.com/wiki/Loth-cats">
+<img src="img/loth_cat3.webp" width=150>
+</a>
