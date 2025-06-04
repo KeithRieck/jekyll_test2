@@ -18,3 +18,4 @@ This is a test of Jekyll Themes on Github Pages.
 * [GitHub Pages Documentation](https://docs.github.com/en/pages)
 * [GitHub Pages and Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 * [Supported Jekyll Themes](https://pages.github.com/themes/)
+* [GitHub Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
