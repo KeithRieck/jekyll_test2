@@ -1,12 +1,9 @@
 title: Theme Test
-description: Keith's Test Repo 3
+description: Keith's Test Repo 4
+theme: jekyll-theme-midnight
+
 github:
   is_project_page: false
-
-remote_theme: pages-themes/cayman@v0.2.0
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-
 exclude:
   - README.md
   - LICENSE
